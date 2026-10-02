@@ -5,8 +5,11 @@ Audit analysis of **Ashbourne Industries, Inc.'s 2024 monthly trial balance**, c
 The project evaluates whether the monthly trial balance is complete and balanced, investigates the December imbalance, identifies unusual balance-sheet movements and data-quality issues, and documents recommended audit follow-up procedures.
 
 > **Project:** Career Catalyst — Audit Work
+
 > **Company:** Ashbourne Industries, Inc.
+
 > **Period:** January–December 2024
+
 > **Prepared by:** Pritam Saha
 
 ---
